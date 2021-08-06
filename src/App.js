@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import Reviews from './reviews'
-import Ratings from './ratings'
-import Analysis from './analysis'
-import Visitors from './visitors'
+import Reviews from './Reviews'
+import Ratings from './Ratings'
+import Analysis from './Analysis'
+import Visitors from './Visitors'
 
 function App() {
   return (
@@ -26,8 +26,6 @@ function App() {
                 <Visitors />
               </div>
         </div>
-        
-       
     </div>
 
   );
